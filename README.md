@@ -46,7 +46,9 @@ Neste exemplo foi selecionada uma vaga disponível, informado uma placa existent
 ### Fluxo para consultar placa inexistente e cadastrar o veículo:
 
 Neste exemplo foi selecionada uma vaga disponível, informado uma placa inexistente e efetuado o cadastro de um veículo com sucesso, conforme imagens exibidas na sequência:
+
 ![reserva_vaga_veiculo_nao_encontrado png](https://user-images.githubusercontent.com/44556635/205751516-ac2c428f-ba33-4e21-af23-ec9cf15f7792.png)
+
 
 #### Mensagem exibida para vaga em manutenção: 
 
